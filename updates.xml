@@ -1,0 +1,41 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="ndk-bundle#19.0.5232133" />
+      <item value="system-images;android-17;default;x86#4" />
+      <item value="system-images;android-17;google_apis;x86#6" />
+      <item value="system-images;android-19;default;x86#6" />
+      <item value="system-images;android-19;google_apis;armeabi-v7a#37" />
+      <item value="system-images;android-19;google_apis;x86#37" />
+      <item value="system-images;android-22;default;armeabi-v7a#2" />
+      <item value="system-images;android-22;default;x86_64#6" />
+      <item value="system-images;android-22;google_apis;armeabi-v7a#23" />
+      <item value="system-images;android-22;google_apis;x86#23" />
+      <item value="system-images;android-22;google_apis;x86_64#23" />
+      <item value="system-images;android-23;default;x86_64#10" />
+      <item value="system-images;android-24;default;x86_64#8" />
+      <item value="tools#26.1.1" />
+      <item value="ndk-bundle#19.1.5304403" />
+      <item value="ndk-bundle#19.2.5345600" />
+      <item value="platform-tools#28.0.2" />
+      <item value="system-images;android-17;default;armeabi-v7a#6" />
+      <item value="system-images;android-17;google_apis;armeabi-v7a#6" />
+      <item value="emulator#28.0.25" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="AI-191.8026.42.35.5900203" />
+    <option name="LAST_TIME_CHECKED" value="1571019386882" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="SECURE_CONNECTION" value="false" />
+  </component>
+</application>
