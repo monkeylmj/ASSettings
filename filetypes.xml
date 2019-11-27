@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
       <removed_mapping ext="md" approved="true" type="Native" />
     </extensionMap>
   </component>
